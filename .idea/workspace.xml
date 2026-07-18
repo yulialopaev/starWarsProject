@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - initial commit" />
+    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - initial commit">
+      <change afterPath="$PROJECT_DIR$/starsWars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starsWarsModel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="15" />
+    <option name="cachedIndexableFilesCount" value="16" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -40,6 +46,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000433264693" />
+      <entry key="MS500" value="1.0920199681878695" />
+      <entry key="S2" value="1.9942874646493858" />
+      <entry key="S5" value="2.811835167075105" />
+      <entry key="S10" value="3.299403470251829" />
+      <entry key="S30" value="3.7493540306509585" />
+      <entry key="S60" value="4.1425846969415305" />
+      <entry key="M2" value="6.2264220619746595" />
+      <entry key="M5" value="19.181999686487366" />
+      <entry key="M10" value="43.89118915871564" />
+      <entry key="M15" value="65.47216548864084" />
+      <entry key="M30" value="108.37052803888017" />
+      <entry key="H1" value="146.36536042623325" />
+      <entry key="H2" value="172.41282139994937" />
+      <entry key="H4" value="187.78060331696378" />
+      <entry key="D1" value="201.9910447200795" />
+      <entry key="W1" value="204.56659764869673" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.8651361521091822E-10" />
+      <entry key="MS500" value="0.011327709631866027" />
+      <entry key="S2" value="0.3262387369222394" />
+      <entry key="S5" value="0.6388725239679299" />
+      <entry key="S10" value="0.7992952271888726" />
+      <entry key="S30" value="0.9374723508454736" />
+      <entry key="S60" value="1.1016528958066958" />
+      <entry key="M2" value="1.5447981358994485" />
+      <entry key="M5" value="2.949452810745749" />
+      <entry key="M10" value="6.536054662363256" />
+      <entry key="M15" value="11.03217686614611" />
+      <entry key="M30" value="22.623074947427664" />
+      <entry key="H1" value="34.83972345096196" />
+      <entry key="H2" value="43.950980923495315" />
+      <entry key="H4" value="49.551777925246995" />
+      <entry key="D1" value="54.86091068057055" />
+      <entry key="W1" value="55.835618330936306" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.276293092939482E-6" />
+      <entry key="MS500" value="0.12306822613202476" />
+      <entry key="S2" value="1.3983163695100025" />
+      <entry key="S5" value="2.690416927862752" />
+      <entry key="S10" value="3.5644245285255582" />
+      <entry key="S30" value="4.454891222806312" />
+      <entry key="S60" value="5.114531111789669" />
+      <entry key="M2" value="7.690156649194333" />
+      <entry key="M5" value="22.064862331689746" />
+      <entry key="M10" value="50.35127938006835" />
+      <entry key="M15" value="76.42409252559507" />
+      <entry key="M30" value="130.92155507161536" />
+      <entry key="H1" value="181.1543861709917" />
+      <entry key="H2" value="216.33336410714986" />
+      <entry key="H4" value="237.31565454089917" />
+      <entry key="D1" value="256.84893481230824" />
+      <entry key="W1" value="260.4017784338636" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -65,8 +130,10 @@
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/PC/WebstormProjects/Projects/StarWars",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -76,13 +143,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\WebstormProjects\Projects\StarWars" />
       <recent name="C:\Users\PC\WebstormProjects\Projects\StarWars\images" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.26222.58" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.259" />
       </set>
     </attachedChunks>
   </component>
@@ -95,6 +163,8 @@
       <updated>1783350517623</updated>
       <workItem from="1783350518726" duration="2999000" />
       <workItem from="1784377755497" duration="4471000" />
+      <workItem from="1784382665636" duration="580000" />
+      <workItem from="1784397657460" duration="3888000" />
     </task>
     <task id="LOCAL-00001" summary="StarWars - initial commit">
       <option name="closed" value="true" />
@@ -112,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784381916072</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="StarWars - initial commit">
+      <option name="closed" value="true" />
+      <created>1784383139778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784383139778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
