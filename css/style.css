@@ -70,7 +70,7 @@ nav > ul {
     border: #eedb00 1px solid;
     border-radius: 0 0 16px 16px;
     padding: 5px;
-    margin: 5px 0 0 10px;
+    margin: 5px 5px 0 10px;
 }
 
 .right > h2 {
@@ -89,7 +89,7 @@ main > p {
     font-size: 1.7rem;
     padding-left: 5px;
     line-height: 1.6;
-    letter-spacing: 1.5px;
+    letter-spacing: 0.1rem;
 
 }
 
@@ -97,7 +97,7 @@ footer {
     border-radius: 0 0 16px 16px;
     height: 5em;
     clear: both;
-    /*padding: 5px 0 0 5px;*/
+    padding: 5px 0 0 5px;
     margin-top: 10px
 }
 

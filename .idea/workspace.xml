@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - initial commit">
-      <change afterPath="$PROJECT_DIR$/starsWars.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/starsWarsModel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - version float and unmarked list">
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000433264693" />
-      <entry key="MS500" value="1.0920199681878695" />
-      <entry key="S2" value="1.9942874646493858" />
-      <entry key="S5" value="2.811835167075105" />
-      <entry key="S10" value="3.299403470251829" />
-      <entry key="S30" value="3.7493540306509585" />
-      <entry key="S60" value="4.1425846969415305" />
-      <entry key="M2" value="6.2264220619746595" />
-      <entry key="M5" value="19.181999686487366" />
-      <entry key="M10" value="43.89118915871564" />
-      <entry key="M15" value="65.47216548864084" />
-      <entry key="M30" value="108.37052803888017" />
-      <entry key="H1" value="146.36536042623325" />
-      <entry key="H2" value="172.41282139994937" />
-      <entry key="H4" value="187.78060331696378" />
-      <entry key="D1" value="201.9910447200795" />
-      <entry key="W1" value="204.56659764869673" />
+      <entry key="MS100" value="1.0000585488354081" />
+      <entry key="MS500" value="1.1423995905451965" />
+      <entry key="S2" value="1.7009788996049777" />
+      <entry key="S5" value="3.0560513462153356" />
+      <entry key="S10" value="5.216324555646217" />
+      <entry key="S30" value="9.39649652923128" />
+      <entry key="S60" value="12.094624887419384" />
+      <entry key="M2" value="15.407454207038024" />
+      <entry key="M5" value="28.01739324198133" />
+      <entry key="M10" value="52.25252294961008" />
+      <entry key="M15" value="73.87289550762394" />
+      <entry key="M30" value="117.56020918145326" />
+      <entry key="H1" value="156.78645872675278" />
+      <entry key="H2" value="183.89149267540577" />
+      <entry key="H4" value="199.9513875749999" />
+      <entry key="D1" value="214.84226266507443" />
+      <entry key="W1" value="217.5450689444972" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.8651361521091822E-10" />
-      <entry key="MS500" value="0.011327709631866027" />
-      <entry key="S2" value="0.3262387369222394" />
-      <entry key="S5" value="0.6388725239679299" />
-      <entry key="S10" value="0.7992952271888726" />
-      <entry key="S30" value="0.9374723508454736" />
-      <entry key="S60" value="1.1016528958066958" />
-      <entry key="M2" value="1.5447981358994485" />
-      <entry key="M5" value="2.949452810745749" />
-      <entry key="M10" value="6.536054662363256" />
-      <entry key="M15" value="11.03217686614611" />
-      <entry key="M30" value="22.623074947427664" />
-      <entry key="H1" value="34.83972345096196" />
-      <entry key="H2" value="43.950980923495315" />
-      <entry key="H4" value="49.551777925246995" />
-      <entry key="D1" value="54.86091068057055" />
-      <entry key="W1" value="55.835618330936306" />
+      <entry key="MS100" value="2.4891459992111635E-283" />
+      <entry key="MS500" value="3.0144638085494635E-57" />
+      <entry key="S2" value="7.409732309020062E-15" />
+      <entry key="S5" value="2.2280298624001674E-6" />
+      <entry key="S10" value="0.0014926590484814622" />
+      <entry key="S30" value="0.11544530281647439" />
+      <entry key="S60" value="0.38659272766009894" />
+      <entry key="M2" value="0.9151160798483634" />
+      <entry key="M5" value="2.3921214869958445" />
+      <entry key="M10" value="5.886221024582348" />
+      <entry key="M15" value="10.28825711171615" />
+      <entry key="M30" value="21.847006149806496" />
+      <entry key="H1" value="34.2369325595784" />
+      <entry key="H2" value="43.56910578278165" />
+      <entry key="H4" value="49.33603900084168" />
+      <entry key="D1" value="54.82102929276658" />
+      <entry key="W1" value="55.8298179584329" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.276293092939482E-6" />
-      <entry key="MS500" value="0.12306822613202476" />
-      <entry key="S2" value="1.3983163695100025" />
-      <entry key="S5" value="2.690416927862752" />
-      <entry key="S10" value="3.5644245285255582" />
-      <entry key="S30" value="4.454891222806312" />
-      <entry key="S60" value="5.114531111789669" />
-      <entry key="M2" value="7.690156649194333" />
-      <entry key="M5" value="22.064862331689746" />
-      <entry key="M10" value="50.35127938006835" />
-      <entry key="M15" value="76.42409252559507" />
-      <entry key="M30" value="130.92155507161536" />
-      <entry key="H1" value="181.1543861709917" />
-      <entry key="H2" value="216.33336410714986" />
-      <entry key="H4" value="237.31565454089917" />
-      <entry key="D1" value="256.84893481230824" />
-      <entry key="W1" value="260.4017784338636" />
+      <entry key="MS100" value="0.9593191272880701" />
+      <entry key="MS500" value="1.1323506893756052" />
+      <entry key="S2" value="1.696756445464728" />
+      <entry key="S5" value="3.0526082979767493" />
+      <entry key="S10" value="5.208257528165305" />
+      <entry key="S30" value="9.459488864271611" />
+      <entry key="S60" value="12.414232051856683" />
+      <entry key="M2" value="16.26010860337994" />
+      <entry key="M5" value="30.348600253055018" />
+      <entry key="M10" value="58.066665967448934" />
+      <entry key="M15" value="84.0838208906878" />
+      <entry key="M30" value="139.33636723337224" />
+      <entry key="H1" value="190.97292850621335" />
+      <entry key="H2" value="227.43010198649924" />
+      <entry key="H4" value="249.2706109354272" />
+      <entry key="D1" value="269.6602465486262" />
+      <entry key="W1" value="273.37444554171077" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -164,7 +160,7 @@
       <workItem from="1783350518726" duration="2999000" />
       <workItem from="1784377755497" duration="4471000" />
       <workItem from="1784382665636" duration="580000" />
-      <workItem from="1784397657460" duration="3888000" />
+      <workItem from="1784397657460" duration="4226000" />
     </task>
     <task id="LOCAL-00001" summary="StarWars - initial commit">
       <option name="closed" value="true" />
@@ -190,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784383139778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="StarWars - version float and unmarked list">
+      <option name="closed" value="true" />
+      <created>1784401670477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784401670477</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +202,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="StarWars - initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="StarWars - initial commit" />
+    <MESSAGE value="StarWars - version float and unmarked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="StarWars - version float and unmarked list" />
   </component>
 </project>
