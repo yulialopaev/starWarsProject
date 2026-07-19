@@ -61,7 +61,7 @@ nav > ul {
 .left > img {
     /*width: 300px;*/
     width: 100%;
-    border-radius: 16px;
+    /*border-radius: 16px;*/
     box-shadow: 11px 10px 7px -1px rgba(255, 255, 255, 0.41);
     margin: 5px 10px 10px 5px;
 }
@@ -70,10 +70,10 @@ nav > ul {
     /*width: 623px;*/
     /*height: 649px;*/
     width: 50%;
-    height: auto;
+    /*height: auto;*/
     float: right;
     border: #eedb00 1px solid;
-    border-radius: 16px;
+    border-radius: 0 0 16px 16px;
     padding: 3px;
     margin: 5px 5px 0 10px;
 }
@@ -89,7 +89,7 @@ nav > ul {
     border-radius: 8px;
     float: left;
     width: 33.33%;
-    height: auto;
+    /*height: auto;*/
     padding: 3px;
 }
 
@@ -105,7 +105,7 @@ footer {
     border-radius: 0 0 16px 16px;
     height: 5em;
     clear: both;
-    padding: 5px 0 0 5px;
+    padding: 5px 0 0 40px;
     margin-top: 10px
 }
 
