@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - version float and unmarked list">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="22" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -31,73 +33,73 @@
     &quot;assignee&quot;: &quot;yulialopaev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yulialopaev/starWarsProject.git",
-    "accountId": "e60069c9-a6f1-4317-ab86-4fd3e150ab1b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yulialopaev/starWarsProject.git&quot;,
+    &quot;accountId&quot;: &quot;e60069c9-a6f1-4317-ab86-4fd3e150ab1b&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.003605523869002" />
-      <entry key="MS500" value="1.5271022343220348" />
-      <entry key="S2" value="2.4274072501092387" />
-      <entry key="S5" value="2.7470290920160725" />
-      <entry key="S10" value="2.8691416584424836" />
-      <entry key="S30" value="2.955370195743113" />
-      <entry key="S60" value="2.9775563100591453" />
-      <entry key="M2" value="2.988766140687883" />
-      <entry key="M5" value="3.100296526625038" />
-      <entry key="M10" value="5.9082094106411835" />
-      <entry key="M15" value="13.62219712681187" />
-      <entry key="M30" value="49.321677709441396" />
-      <entry key="H1" value="108.4427340079742" />
-      <entry key="H2" value="165.95616534691578" />
-      <entry key="H4" value="206.82861787788613" />
-      <entry key="D1" value="249.38868724118203" />
-      <entry key="W1" value="257.6025662732889" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3485156589090665E-193" />
+      <entry key="S2" value="8.515358567546652E-49" />
+      <entry key="S5" value="8.456786593762782E-20" />
+      <entry key="S10" value="4.0679966096387005E-10" />
+      <entry key="S30" value="0.001183081922118877" />
+      <entry key="S60" value="0.057884203963658676" />
+      <entry key="M2" value="0.6690724312596574" />
+      <entry key="M5" value="4.892024067148349" />
+      <entry key="M10" value="11.592820627243535" />
+      <entry key="M15" value="18.92037659999768" />
+      <entry key="M30" value="49.90141114660425" />
+      <entry key="H1" value="108.13027673078153" />
+      <entry key="H2" value="170.84958103830766" />
+      <entry key="H4" value="218.0961584072353" />
+      <entry key="D1" value="269.2141605052788" />
+      <entry key="W1" value="279.2811707065681" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.3216808045271402E-145" />
-      <entry key="S10" value="3.636511443912253E-73" />
-      <entry key="S30" value="8.1336341630501065E-25" />
-      <entry key="S60" value="1.4907672785042743E-12" />
-      <entry key="M2" value="3.049094207544569E-6" />
-      <entry key="M5" value="0.026899003083746816" />
-      <entry key="M10" value="0.6947244953587166" />
-      <entry key="M15" value="2.403434155877829" />
-      <entry key="M30" value="10.6461910177076" />
-      <entry key="H1" value="25.7680778414621" />
-      <entry key="H2" value="41.65643462262745" />
-      <entry key="H4" value="53.455385961896546" />
-      <entry key="D1" value="66.09987330152877" />
-      <entry key="W1" value="68.57737768125774" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000007205825" />
+      <entry key="S30" value="1.0017961401893267" />
+      <entry key="S60" value="1.0750747427200387" />
+      <entry key="M2" value="1.5342564822251166" />
+      <entry key="M5" value="3.027589635886945" />
+      <entry key="M10" value="4.592225999054192" />
+      <entry key="M15" value="6.149828050138524" />
+      <entry key="M30" value="13.08245252165636" />
+      <entry key="H1" value="27.567529606466554" />
+      <entry key="H2" value="44.436714068271996" />
+      <entry key="H4" value="57.725408873162245" />
+      <entry key="D1" value="72.53184996375242" />
+      <entry key="W1" value="75.49303377443073" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.5156959616004209" />
-      <entry key="MS500" value="1.322741701028726" />
-      <entry key="S2" value="2.3367367090367313" />
-      <entry key="S5" value="2.7050266227658892" />
-      <entry key="S10" value="2.847037761392928" />
-      <entry key="S30" value="2.9477419200816897" />
-      <entry key="S60" value="2.973708634016252" />
-      <entry key="M2" value="2.9868368040264848" />
-      <entry key="M5" value="3.1261614094442454" />
-      <entry key="M10" value="6.59852304686975" />
-      <entry key="M15" value="16.014744008391798" />
-      <entry key="M30" value="59.941442934546274" />
-      <entry key="H1" value="134.17857879636009" />
-      <entry key="H2" value="207.58681689146488" />
-      <entry key="H4" value="260.2676059503983" />
-      <entry key="D1" value="315.485211622885" />
-      <entry key="W1" value="326.17944845264026" />
+      <entry key="MS100" value="9.458219146263026E-6" />
+      <entry key="MS500" value="0.09889216264818124" />
+      <entry key="S2" value="0.5607773559613517" />
+      <entry key="S5" value="0.793443830238018" />
+      <entry key="S10" value="0.8907546419255373" />
+      <entry key="S30" value="0.9650837159081859" />
+      <entry key="S60" value="1.1123612493637305" />
+      <entry key="M2" value="2.187043019051578" />
+      <entry key="M5" value="7.900916957684869" />
+      <entry key="M10" value="16.167078852072585" />
+      <entry key="M15" value="25.05145507614802" />
+      <entry key="M30" value="62.95734860182395" />
+      <entry key="H1" value="135.6664331708064" />
+      <entry key="H2" value="215.26032023034122" />
+      <entry key="H4" value="275.80460909246426" />
+      <entry key="D1" value="341.74245781131987" />
+      <entry key="W1" value="354.77367638068165" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -123,7 +125,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/WebstormProjects/Projects/StarWars&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yulia/WebstormProjects/Project_66/StarWars&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -161,6 +163,8 @@
       <workItem from="1784382665636" duration="580000" />
       <workItem from="1784397657460" duration="4567000" />
       <workItem from="1784445458849" duration="913000" />
+      <workItem from="1784559772833" duration="31000" />
+      <workItem from="1784559871899" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="StarWars - initial commit">
       <option name="closed" value="true" />
