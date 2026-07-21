@@ -1,0 +1,172 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"6ea9d1c4-825b-4d51-893a-87f76289df11\" name=\"Changes\" comment=\"StarWars - version float and unmarked list\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/css/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"EmbeddingIndexingInfo\">\r\n    <option name=\"cachedIndexableFilesCount\" value=\"22\" />\r\n    <option name=\"fileBasedEmbeddingIndicesEnabled\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;yulialopaev&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/yulialopaev/starWarsProject.git&quot;,\r\n    &quot;accountId&quot;: &quot;e60069c9-a6f1-4317-ab86-4fd3e150ab1b&quot;\r\n  }\r\n}</component>\r\n  <component name=\"McpProjectServerCommands\">\r\n    <commands />\r\n    <urls />\r\n  </component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.0001636391339184\" />\r\n      <entry key=\"MS500\" value=\"1.304431169852529\" />\r\n      <entry key=\"S2\" value=\"2.312421216735159\" />\r\n      <entry key=\"S5\" value=\"2.990043915899586\" />\r\n      <entry key=\"S10\" value=\"3.4625222892768055\" />\r\n      <entry key=\"S30\" value=\"5.153652342200669\" />\r\n      <entry key=\"S60\" value=\"8.2179274360882\" />\r\n      <entry key=\"M2\" value=\"13.64444616773272\" />\r\n      <entry key=\"M5\" value=\"26.437487997269706\" />\r\n      <entry key=\"M10\" value=\"42.783202072337666\" />\r\n      <entry key=\"M15\" value=\"55.47697211726023\" />\r\n      <entry key=\"M30\" value=\"90.64259540486304\" />\r\n      <entry key=\"H1\" value=\"152.26980318924458\" />\r\n      <entry key=\"H2\" value=\"222.76577354958388\" />\r\n      <entry key=\"H4\" value=\"278.5929723720382\" />\r\n      <entry key=\"D1\" value=\"341.252459232463\" />\r\n      <entry key=\"W1\" value=\"353.8425875489841\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"0.0\" />\r\n      <entry key=\"MS500\" value=\"1.167818572392212E-86\" />\r\n      <entry key=\"S2\" value=\"3.28734349645285E-22\" />\r\n      <entry key=\"S5\" value=\"2.5666198018341174E-9\" />\r\n      <entry key=\"S10\" value=\"5.444151209701283E-5\" />\r\n      <entry key=\"S30\" value=\"0.05421152416806092\" />\r\n      <entry key=\"S60\" value=\"0.40676921447064374\" />\r\n      <entry key=\"M2\" value=\"1.6657656187877639\" />\r\n      <entry key=\"M5\" value=\"6.07868492101616\" />\r\n      <entry key=\"M10\" value=\"11.331893987924758\" />\r\n      <entry key=\"M15\" value=\"14.872450868270121\" />\r\n      <entry key=\"M30\" value=\"23.55180281271158\" />\r\n      <entry key=\"H1\" value=\"38.92711957614905\" />\r\n      <entry key=\"H2\" value=\"57.5867915026795\" />\r\n      <entry key=\"H4\" value=\"72.97915731185607\" />\r\n      <entry key=\"D1\" value=\"90.75190622648749\" />\r\n      <entry key=\"W1\" value=\"94.37712024621824\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"4.346970755875085E-4\" />\r\n      <entry key=\"MS500\" value=\"0.4879500651010089\" />\r\n      <entry key=\"S2\" value=\"1.9186684372821068\" />\r\n      <entry key=\"S5\" value=\"2.700003738516783\" />\r\n      <entry key=\"S10\" value=\"3.24250869917474\" />\r\n      <entry key=\"S30\" value=\"5.0469972064276005\" />\r\n      <entry key=\"S60\" value=\"8.4721246565404\" />\r\n      <entry key=\"M2\" value=\"15.16828426398613\" />\r\n      <entry key=\"M5\" value=\"32.3939372144677\" />\r\n      <entry key=\"M10\" value=\"54.017481047056386\" />\r\n      <entry key=\"M15\" value=\"70.26813074370794\" />\r\n      <entry key=\"M30\" value=\"114.1330365787213\" />\r\n      <entry key=\"H1\" value=\"191.14731014807262\" />\r\n      <entry key=\"H2\" value=\"280.31640764733396\" />\r\n      <entry key=\"H4\" value=\"351.5494418898991\" />\r\n      <entry key=\"D1\" value=\"431.9997085986425\" />\r\n      <entry key=\"W1\" value=\"448.21901720342385\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3G8Q3b6dU2prBa7YeYxsvqbM2nk\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.MCP Project settings loaded\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"main__table__flex\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"javascript.preferred.runtime.type.id\": \"node\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Yulia/WebstormProjects/Project_66/StarWars\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.jshint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.jshint\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"to.speed.mode.migration.done\": \"true\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\PC\\WebstormProjects\\Projects\\StarWars\" />\r\n      <recent name=\"C:\\Users\\PC\\WebstormProjects\\Projects\\StarWars\\images\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.259\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"6ea9d1c4-825b-4d51-893a-87f76289df11\" name=\"Changes\" comment=\"\" />\r\n      <created>1783350517623</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1783350517623</updated>\r\n      <workItem from=\"1783350518726\" duration=\"2999000\" />\r\n      <workItem from=\"1784377755497\" duration=\"4471000\" />\r\n      <workItem from=\"1784382665636\" duration=\"580000\" />\r\n      <workItem from=\"1784397657460\" duration=\"4567000\" />\r\n      <workItem from=\"1784445458849\" duration=\"913000\" />\r\n      <workItem from=\"1784559772833\" duration=\"31000\" />\r\n      <workItem from=\"1784559871899\" duration=\"1626000\" />\r\n      <workItem from=\"1784637554064\" duration=\"1296000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"StarWars - initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1783352902766</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1783352902766</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"StarWars - initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784381916072</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784381916072</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"StarWars - initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784383139778</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784383139778</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"StarWars - version float and unmarked list\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784401670477</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784401670477</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"StarWars - version float and unmarked list\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784402106881</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784402106881</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"StarWars - initial commit\" />\r\n    <MESSAGE value=\"StarWars - version float and unmarked list\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"StarWars - version float and unmarked list\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 46ee76ebfbb411bb2ce87a601c5d7e5c105f960d)
++++ b/.idea/workspace.xml	(date 1784639157441)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - version float and unmarked list">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+-    </list>
++    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="Star Wars - table version of the right container" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -51,61 +47,61 @@
+   </component>
+   <component name="NextEditCompletionFeaturesState">
+     <decayedCancelled>
+-      <entry key="MS100" value="1.0001636391339184" />
+-      <entry key="MS500" value="1.304431169852529" />
+-      <entry key="S2" value="2.312421216735159" />
+-      <entry key="S5" value="2.990043915899586" />
+-      <entry key="S10" value="3.4625222892768055" />
+-      <entry key="S30" value="5.153652342200669" />
+-      <entry key="S60" value="8.2179274360882" />
+-      <entry key="M2" value="13.64444616773272" />
+-      <entry key="M5" value="26.437487997269706" />
+-      <entry key="M10" value="42.783202072337666" />
+-      <entry key="M15" value="55.47697211726023" />
+-      <entry key="M30" value="90.64259540486304" />
+-      <entry key="H1" value="152.26980318924458" />
+-      <entry key="H2" value="222.76577354958388" />
+-      <entry key="H4" value="278.5929723720382" />
+-      <entry key="D1" value="341.252459232463" />
+-      <entry key="W1" value="353.8425875489841" />
++      <entry key="MS100" value="1.000073321364821" />
++      <entry key="MS500" value="1.2482916329481093" />
++      <entry key="S2" value="3.220546504119842" />
++      <entry key="S5" value="6.37808193863538" />
++      <entry key="S10" value="9.463592822290872" />
++      <entry key="S30" value="15.127293161912824" />
++      <entry key="S60" value="19.346374113768345" />
++      <entry key="M2" value="24.78246041084535" />
++      <entry key="M5" value="38.22356887228519" />
++      <entry key="M10" value="56.58666454475617" />
++      <entry key="M15" value="71.05691048661059" />
++      <entry key="M30" value="108.64363405916396" />
++      <entry key="H1" value="172.21911984734882" />
++      <entry key="H2" value="245.62450807833073" />
++      <entry key="H4" value="304.4799519659989" />
++      <entry key="D1" value="371.20429697407474" />
++      <entry key="W1" value="384.6872080646942" />
+     </decayedCancelled>
+     <decayedSelected>
+-      <entry key="MS100" value="0.0" />
+-      <entry key="MS500" value="1.167818572392212E-86" />
+-      <entry key="S2" value="3.28734349645285E-22" />
+-      <entry key="S5" value="2.5666198018341174E-9" />
+-      <entry key="S10" value="5.444151209701283E-5" />
+-      <entry key="S30" value="0.05421152416806092" />
+-      <entry key="S60" value="0.40676921447064374" />
+-      <entry key="M2" value="1.6657656187877639" />
+-      <entry key="M5" value="6.07868492101616" />
+-      <entry key="M10" value="11.331893987924758" />
+-      <entry key="M15" value="14.872450868270121" />
+-      <entry key="M30" value="23.55180281271158" />
+-      <entry key="H1" value="38.92711957614905" />
+-      <entry key="H2" value="57.5867915026795" />
+-      <entry key="H4" value="72.97915731185607" />
+-      <entry key="D1" value="90.75190622648749" />
+-      <entry key="W1" value="94.37712024621824" />
++      <entry key="MS100" value="2.498748577947192E-268" />
++      <entry key="MS500" value="3.964992083291913E-54" />
++      <entry key="S2" value="7.289005798643753E-14" />
++      <entry key="S5" value="8.420261756088297E-6" />
++      <entry key="S10" value="0.0042463539652891034" />
++      <entry key="S30" value="0.3515490588673099" />
++      <entry key="S60" value="1.2496269905058712" />
++      <entry key="M2" value="2.639398657156122" />
++      <entry key="M5" value="6.283310882844539" />
++      <entry key="M10" value="11.64800426201932" />
++      <entry key="M15" value="15.655653198730931" />
++      <entry key="M30" value="25.12617500941017" />
++      <entry key="H1" value="41.07628451545856" />
++      <entry key="H2" value="60.46980122384201" />
++      <entry key="H4" value="76.63387719442493" />
++      <entry key="D1" value="95.4722389066969" />
++      <entry key="W1" value="99.3355474152416" />
+     </decayedSelected>
+     <decayedShown>
+-      <entry key="MS100" value="4.346970755875085E-4" />
+-      <entry key="MS500" value="0.4879500651010089" />
+-      <entry key="S2" value="1.9186684372821068" />
+-      <entry key="S5" value="2.700003738516783" />
+-      <entry key="S10" value="3.24250869917474" />
+-      <entry key="S30" value="5.0469972064276005" />
+-      <entry key="S60" value="8.4721246565404" />
+-      <entry key="M2" value="15.16828426398613" />
+-      <entry key="M5" value="32.3939372144677" />
+-      <entry key="M10" value="54.017481047056386" />
+-      <entry key="M15" value="70.26813074370794" />
+-      <entry key="M30" value="114.1330365787213" />
+-      <entry key="H1" value="191.14731014807262" />
+-      <entry key="H2" value="280.31640764733396" />
+-      <entry key="H4" value="351.5494418898991" />
+-      <entry key="D1" value="431.9997085986425" />
+-      <entry key="W1" value="448.21901720342385" />
++      <entry key="MS100" value="0.9727262208108663" />
++      <entry key="MS500" value="1.2411128442576878" />
++      <entry key="S2" value="3.2151110126436797" />
++      <entry key="S5" value="6.3732098574205365" />
++      <entry key="S10" value="9.45894121273219" />
++      <entry key="S30" value="15.43946611400809" />
++      <entry key="S60" value="20.53744436035989" />
++      <entry key="M2" value="27.35275838375983" />
++      <entry key="M5" value="44.42354846411167" />
++      <entry key="M10" value="68.1528804944612" />
++      <entry key="M15" value="86.63868958061506" />
++      <entry key="M30" value="133.70986329572185" />
++      <entry key="H1" value="213.24573753084172" />
++      <entry key="H2" value="306.0576531686004" />
++      <entry key="H4" value="381.0906494221654" />
++      <entry key="D1" value="466.6717421842962" />
++      <entry key="W1" value="484.02204360629463" />
+     </decayedShown>
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -171,7 +167,7 @@
+       <workItem from="1784445458849" duration="913000" />
+       <workItem from="1784559772833" duration="31000" />
+       <workItem from="1784559871899" duration="1626000" />
+-      <workItem from="1784637554064" duration="1296000" />
++      <workItem from="1784637554064" duration="1601000" />
+     </task>
+     <task id="LOCAL-00001" summary="StarWars - initial commit">
+       <option name="closed" value="true" />
+@@ -213,7 +209,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1784402106881</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="Star Wars - table version of the right container">
++      <option name="closed" value="true" />
++      <created>1784639152669</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1784639152669</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -222,6 +226,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="StarWars - initial commit" />
+     <MESSAGE value="StarWars - version float and unmarked list" />
+-    <option name="LAST_COMMIT_MESSAGE" value="StarWars - version float and unmarked list" />
++    <MESSAGE value="Star Wars - table version of the right container" />
++    <option name="LAST_COMMIT_MESSAGE" value="Star Wars - table version of the right container" />
+   </component>
+ </project>
+\ No newline at end of file
