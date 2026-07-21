@@ -1,0 +1,111 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"6ea9d1c4-825b-4d51-893a-87f76289df11\" name=\"Changes\" comment=\"StarWars - version float and unmarked list\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/css/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"EmbeddingIndexingInfo\">\r\n    <option name=\"cachedIndexableFilesCount\" value=\"22\" />\r\n    <option name=\"fileBasedEmbeddingIndicesEnabled\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main_table_flex\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;yulialopaev&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/yulialopaev/starWarsProject.git&quot;,\r\n    &quot;accountId&quot;: &quot;e60069c9-a6f1-4317-ab86-4fd3e150ab1b&quot;\r\n  }\r\n}</component>\r\n  <component name=\"McpProjectServerCommands\">\r\n    <commands />\r\n    <urls />\r\n  </component>\r\n  <component name=\"NextEditCompletionFeaturesState\">\r\n    <decayedCancelled>\r\n      <entry key=\"MS100\" value=\"1.000000117796986\" />\r\n      <entry key=\"MS500\" value=\"1.0737289205967402\" />\r\n      <entry key=\"S2\" value=\"2.1002158924962098\" />\r\n      <entry key=\"S5\" value=\"3.163885892263641\" />\r\n      <entry key=\"S10\" value=\"3.9297926149497773\" />\r\n      <entry key=\"S30\" value=\"6.19129422972619\" />\r\n      <entry key=\"S60\" value=\"9.689805835163812\" />\r\n      <entry key=\"M2\" value=\"15.640715414474535\" />\r\n      <entry key=\"M5\" value=\"30.38029773656841\" />\r\n      <entry key=\"M10\" value=\"49.74417475649096\" />\r\n      <entry key=\"M15\" value=\"64.78233247711302\" />\r\n      <entry key=\"M30\" value=\"103.10962141342107\" />\r\n      <entry key=\"H1\" value=\"167.20647964538819\" />\r\n      <entry key=\"H2\" value=\"241.1890337966452\" />\r\n      <entry key=\"H4\" value=\"300.59019564656194\" />\r\n      <entry key=\"D1\" value=\"368.02349175397256\" />\r\n      <entry key=\"W1\" value=\"381.6604399884958\" />\r\n    </decayedCancelled>\r\n    <decayedSelected>\r\n      <entry key=\"MS100\" value=\"2.866285577936355E-67\" />\r\n      <entry key=\"MS500\" value=\"4.9143251959996176E-14\" />\r\n      <entry key=\"S2\" value=\"4.7083209957127697E-4\" />\r\n      <entry key=\"S5\" value=\"0.04678106066863052\" />\r\n      <entry key=\"S10\" value=\"0.22611484818127814\" />\r\n      <entry key=\"S30\" value=\"0.8911918393799548\" />\r\n      <entry key=\"S60\" value=\"1.8101653025443916\" />\r\n      <entry key=\"M2\" value=\"3.6361141636471555\" />\r\n      <entry key=\"M5\" value=\"8.461249990132277\" />\r\n      <entry key=\"M10\" value=\"14.67486881458876\" />\r\n      <entry key=\"M15\" value=\"19.10346542178719\" />\r\n      <entry key=\"M30\" value=\"29.101939474632946\" />\r\n      <entry key=\"H1\" value=\"45.37118262405397\" />\r\n      <entry key=\"H2\" value=\"65.00239503080373\" />\r\n      <entry key=\"H4\" value=\"81.3525698259087\" />\r\n      <entry key=\"D1\" value=\"100.41612607918223\" />\r\n      <entry key=\"W1\" value=\"104.32726113116064\" />\r\n    </decayedSelected>\r\n    <decayedShown>\r\n      <entry key=\"MS100\" value=\"4.750171690419849E-4\" />\r\n      <entry key=\"MS500\" value=\"0.28527059517699294\" />\r\n      <entry key=\"S2\" value=\"1.7592344465661702\" />\r\n      <entry key=\"S5\" value=\"3.0260711823872275\" />\r\n      <entry key=\"S10\" value=\"4.029976057960204\" />\r\n      <entry key=\"S30\" value=\"6.9869540587208245\" />\r\n      <entry key=\"S60\" value=\"11.404525825457423\" />\r\n      <entry key=\"M2\" value=\"19.177017041846433\" />\r\n      <entry key=\"M5\" value=\"38.73643092755447\" />\r\n      <entry key=\"M10\" value=\"64.32270443816684\" />\r\n      <entry key=\"M15\" value=\"83.80086883095623\" />\r\n      <entry key=\"M30\" value=\"132.1452056343527\" />\r\n      <entry key=\"H1\" value=\"212.52451753293926\" />\r\n      <entry key=\"H2\" value=\"306.152917849387\" />\r\n      <entry key=\"H4\" value=\"381.9186088092921\" />\r\n      <entry key=\"D1\" value=\"468.4346509427243\" />\r\n      <entry key=\"W1\" value=\"485.98696418510036\" />\r\n    </decayedShown>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6,\r\n  &quot;fromUser&quot;: false\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3G8Q3b6dU2prBa7YeYxsvqbM2nk\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.MCP Project settings loaded\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"codeWithMe.voiceChat.enabledByDefault\": \"false\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"main__flex__right\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"javascript.preferred.runtime.type.id\": \"node\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Yulia/WebstormProjects/Project_66/StarWars\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.jshint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.jshint\": \"\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"to.speed.mode.migration.done\": \"true\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\PC\\WebstormProjects\\Projects\\StarWars\" />\r\n      <recent name=\"C:\\Users\\PC\\WebstormProjects\\Projects\\StarWars\\images\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.259\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"6ea9d1c4-825b-4d51-893a-87f76289df11\" name=\"Changes\" comment=\"\" />\r\n      <created>1783350517623</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1783350517623</updated>\r\n      <workItem from=\"1783350518726\" duration=\"2999000\" />\r\n      <workItem from=\"1784377755497\" duration=\"4471000\" />\r\n      <workItem from=\"1784382665636\" duration=\"580000\" />\r\n      <workItem from=\"1784397657460\" duration=\"4567000\" />\r\n      <workItem from=\"1784445458849\" duration=\"913000\" />\r\n      <workItem from=\"1784559772833\" duration=\"31000\" />\r\n      <workItem from=\"1784559871899\" duration=\"1626000\" />\r\n      <workItem from=\"1784637554064\" duration=\"1296000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"StarWars - initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1783352902766</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1783352902766</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"StarWars - initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784381916072</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784381916072</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"StarWars - initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784383139778</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784383139778</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"StarWars - version float and unmarked list\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784401670477</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784401670477</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"StarWars - version float and unmarked list\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1784402106881</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1784402106881</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"StarWars - initial commit\" />\r\n    <MESSAGE value=\"StarWars - version float and unmarked list\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"StarWars - version float and unmarked list\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b6603c7e7ed9d4402cdfc263f183c7fcb8e0e202)
++++ b/.idea/workspace.xml	(date 1784640105800)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - version float and unmarked list">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+-    </list>
++    <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="Star Wars - flex version of the right container" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -117,33 +113,33 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "DefaultHtmlFileTemplate": "HTML File",
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.MCP Project settings loaded": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "codeWithMe.voiceChat.enabledByDefault": "false",
+-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "main__flex__right",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "javascript.preferred.runtime.type.id": "node",
+-    "junie.onboarding.icon.badge.shown": "true",
+-    "last_opened_file_path": "C:/Users/Yulia/WebstormProjects/Project_66/StarWars",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.jshint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.jshint": "",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
+-    "to.speed.mode.migration.done": "true",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
++    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main__flex__right&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
++    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yulia/WebstormProjects/Project_66/StarWars&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
++    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\PC\WebstormProjects\Projects\StarWars" />
+@@ -213,7 +209,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1784402106881</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="Star Wars - flex version of the right container">
++      <option name="closed" value="true" />
++      <created>1784639947743</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1784639947743</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -222,6 +226,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="StarWars - initial commit" />
+     <MESSAGE value="StarWars - version float and unmarked list" />
+-    <option name="LAST_COMMIT_MESSAGE" value="StarWars - version float and unmarked list" />
++    <MESSAGE value="Star Wars - flex version of the right container" />
++    <MESSAGE value="Star Wars - table version of the right container" />
++    <option name="LAST_COMMIT_MESSAGE" value="Star Wars - table version of the right container" />
+   </component>
+ </project>
+\ No newline at end of file

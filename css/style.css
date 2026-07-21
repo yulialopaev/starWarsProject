@@ -69,6 +69,7 @@ nav > ul {
     border: #eedb00 1px solid;
     border-radius: 0 0 16px 16px;
     margin: 5px 5px 0 10px;
+    padding:0.2rem;
 }
 
 .right > h2 {
@@ -84,8 +85,9 @@ nav > ul {
 }
 
 img[alt="Friend"] {
-    width: 33.33%;
-    padding: 0.3rem;
+    width: 33%;
+    margin: calc(1% / 6);
+    padding: 0.1rem;
     border-radius: 0.8rem;
 }
 
