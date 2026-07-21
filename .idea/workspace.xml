@@ -7,6 +7,7 @@
     <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - version float and unmarked list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.3485156589090665E-193" />
-      <entry key="S2" value="8.515358567546652E-49" />
-      <entry key="S5" value="8.456786593762782E-20" />
-      <entry key="S10" value="4.0679966096387005E-10" />
-      <entry key="S30" value="0.001183081922118877" />
-      <entry key="S60" value="0.057884203963658676" />
-      <entry key="M2" value="0.6690724312596574" />
-      <entry key="M5" value="4.892024067148349" />
-      <entry key="M10" value="11.592820627243535" />
-      <entry key="M15" value="18.92037659999768" />
-      <entry key="M30" value="49.90141114660425" />
-      <entry key="H1" value="108.13027673078153" />
-      <entry key="H2" value="170.84958103830766" />
-      <entry key="H4" value="218.0961584072353" />
-      <entry key="D1" value="269.2141605052788" />
-      <entry key="W1" value="279.2811707065681" />
+      <entry key="MS100" value="1.0001636391339184" />
+      <entry key="MS500" value="1.304431169852529" />
+      <entry key="S2" value="2.312421216735159" />
+      <entry key="S5" value="2.990043915899586" />
+      <entry key="S10" value="3.4625222892768055" />
+      <entry key="S30" value="5.153652342200669" />
+      <entry key="S60" value="8.2179274360882" />
+      <entry key="M2" value="13.64444616773272" />
+      <entry key="M5" value="26.437487997269706" />
+      <entry key="M10" value="42.783202072337666" />
+      <entry key="M15" value="55.47697211726023" />
+      <entry key="M30" value="90.64259540486304" />
+      <entry key="H1" value="152.26980318924458" />
+      <entry key="H2" value="222.76577354958388" />
+      <entry key="H4" value="278.5929723720382" />
+      <entry key="D1" value="341.252459232463" />
+      <entry key="W1" value="353.8425875489841" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000007205825" />
-      <entry key="S30" value="1.0017961401893267" />
-      <entry key="S60" value="1.0750747427200387" />
-      <entry key="M2" value="1.5342564822251166" />
-      <entry key="M5" value="3.027589635886945" />
-      <entry key="M10" value="4.592225999054192" />
-      <entry key="M15" value="6.149828050138524" />
-      <entry key="M30" value="13.08245252165636" />
-      <entry key="H1" value="27.567529606466554" />
-      <entry key="H2" value="44.436714068271996" />
-      <entry key="H4" value="57.725408873162245" />
-      <entry key="D1" value="72.53184996375242" />
-      <entry key="W1" value="75.49303377443073" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.167818572392212E-86" />
+      <entry key="S2" value="3.28734349645285E-22" />
+      <entry key="S5" value="2.5666198018341174E-9" />
+      <entry key="S10" value="5.444151209701283E-5" />
+      <entry key="S30" value="0.05421152416806092" />
+      <entry key="S60" value="0.40676921447064374" />
+      <entry key="M2" value="1.6657656187877639" />
+      <entry key="M5" value="6.07868492101616" />
+      <entry key="M10" value="11.331893987924758" />
+      <entry key="M15" value="14.872450868270121" />
+      <entry key="M30" value="23.55180281271158" />
+      <entry key="H1" value="38.92711957614905" />
+      <entry key="H2" value="57.5867915026795" />
+      <entry key="H4" value="72.97915731185607" />
+      <entry key="D1" value="90.75190622648749" />
+      <entry key="W1" value="94.37712024621824" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="9.458219146263026E-6" />
-      <entry key="MS500" value="0.09889216264818124" />
-      <entry key="S2" value="0.5607773559613517" />
-      <entry key="S5" value="0.793443830238018" />
-      <entry key="S10" value="0.8907546419255373" />
-      <entry key="S30" value="0.9650837159081859" />
-      <entry key="S60" value="1.1123612493637305" />
-      <entry key="M2" value="2.187043019051578" />
-      <entry key="M5" value="7.900916957684869" />
-      <entry key="M10" value="16.167078852072585" />
-      <entry key="M15" value="25.05145507614802" />
-      <entry key="M30" value="62.95734860182395" />
-      <entry key="H1" value="135.6664331708064" />
-      <entry key="H2" value="215.26032023034122" />
-      <entry key="H4" value="275.80460909246426" />
-      <entry key="D1" value="341.74245781131987" />
-      <entry key="W1" value="354.77367638068165" />
+      <entry key="MS100" value="4.346970755875085E-4" />
+      <entry key="MS500" value="0.4879500651010089" />
+      <entry key="S2" value="1.9186684372821068" />
+      <entry key="S5" value="2.700003738516783" />
+      <entry key="S10" value="3.24250869917474" />
+      <entry key="S30" value="5.0469972064276005" />
+      <entry key="S60" value="8.4721246565404" />
+      <entry key="M2" value="15.16828426398613" />
+      <entry key="M5" value="32.3939372144677" />
+      <entry key="M10" value="54.017481047056386" />
+      <entry key="M15" value="70.26813074370794" />
+      <entry key="M30" value="114.1330365787213" />
+      <entry key="H1" value="191.14731014807262" />
+      <entry key="H2" value="280.31640764733396" />
+      <entry key="H4" value="351.5494418898991" />
+      <entry key="D1" value="431.9997085986425" />
+      <entry key="W1" value="448.21901720342385" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -111,33 +117,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yulia/WebstormProjects/Project_66/StarWars&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main__table__flex",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Yulia/WebstormProjects/Project_66/StarWars",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\WebstormProjects\Projects\StarWars" />
@@ -165,6 +171,7 @@
       <workItem from="1784445458849" duration="913000" />
       <workItem from="1784559772833" duration="31000" />
       <workItem from="1784559871899" duration="1626000" />
+      <workItem from="1784637554064" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="StarWars - initial commit">
       <option name="closed" value="true" />

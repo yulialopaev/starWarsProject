@@ -42,7 +42,6 @@ nav > ul {
     padding: 0;
 }
 
-/*nav ul li {*/
 .button {
     display: inline-block;
     border: 2px solid black;
@@ -60,44 +59,37 @@ nav > ul {
 }
 
 .left > img {
-    /*width: 300px;*/
     width: 100%;
-    /*border-radius: 16px;*/
     box-shadow: 11px 10px 7px -1px rgba(255, 255, 255, 0.41);
-    /*margin: 5px 10px 10px 5px;*/
 }
 
 .right {
-    /*width: 623px;*/
-    /*height: 649px;*/
     width: 50%;
-    /*height: auto;*/
     float: right;
     border: #eedb00 1px solid;
     border-radius: 0 0 16px 16px;
-    padding: 3px;
+    padding-left: 0.1rem;
     margin: 5px 5px 0 10px;
 }
 
 .right > h2 {
-    padding: 0 0 5px 0;
+    margin-bottom: 0.5rem;
     font-size: 1.2rem;
     text-align: center;
 }
 
-.right > img {
+table {
+    border-collapse: collapse;
+}
+
+img[alt="Friend"] {
     border-radius: 8px;
-    float: left;
-    width: 33%;
-    /*height: auto;*/
-    margin: calc(1% / 6);
-    padding: 3px;
+    padding: 0.1rem 0.2rem;
 }
 
 .far-galaxy {
     text-align: justify;
     font-size: 1.7rem;
-    /*padding-left: 10px;*/
     line-height: 1.6;
     letter-spacing: 0.1rem;
 }
