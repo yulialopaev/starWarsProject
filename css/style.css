@@ -76,11 +76,15 @@ nav > ul {
 
 table {
     border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
 }
 
 img[alt="Friend"] {
     border-radius: 0.8rem;
     padding: 0.1rem 0.2rem;
+    width: 100%;
+    display: block;
 }
 
 .far-galaxy {
