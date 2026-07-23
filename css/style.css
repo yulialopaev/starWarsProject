@@ -5,15 +5,20 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: #eedb00;
+    --secondary-color: 60, 69, 67;
+}
+
 body {
     font-family: 'Poller One', cursive;
     background-image: url('../images/sky.jpg');
-    color: #eedb00;
+    color: var(--primary-color);
     background-attachment: fixed;
 }
 
 header, footer {
-    background-color: rgba(60, 69, 67, 0.6);
+    background-color: rgba(var(--secondary-color), 0.6);
 }
 
 header {
@@ -62,10 +67,10 @@ nav > ul {
 .right {
     width: 50%;
     float: right;
-    border: #eedb00 1px solid;
+    border: var(--primary-color) 1px solid;
     border-radius: 0 0 16px 16px;
     margin: 5px 5px 0 10px;
-    padding:0.2rem;
+    padding: 0.2rem;
 }
 
 .right > h2 {

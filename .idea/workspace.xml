@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea9d1c4-825b-4d51-893a-87f76289df11" name="Changes" comment="StarWars - version float and unmarked list">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,61 +49,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000117796986" />
-      <entry key="MS500" value="1.0737289205967402" />
-      <entry key="S2" value="2.1002158924962098" />
-      <entry key="S5" value="3.163885892263641" />
-      <entry key="S10" value="3.9297926149497773" />
-      <entry key="S30" value="6.19129422972619" />
-      <entry key="S60" value="9.689805835163812" />
-      <entry key="M2" value="15.640715414474535" />
-      <entry key="M5" value="30.38029773656841" />
-      <entry key="M10" value="49.74417475649096" />
-      <entry key="M15" value="64.78233247711302" />
-      <entry key="M30" value="103.10962141342107" />
-      <entry key="H1" value="167.20647964538819" />
-      <entry key="H2" value="241.1890337966452" />
-      <entry key="H4" value="300.59019564656194" />
-      <entry key="D1" value="368.02349175397256" />
-      <entry key="W1" value="381.6604399884958" />
+      <entry key="MS100" value="4.605943340896821E-7" />
+      <entry key="MS500" value="0.05403491671066218" />
+      <entry key="S2" value="0.5506136088184762" />
+      <entry key="S5" value="1.5470450432787777" />
+      <entry key="S10" value="2.8119230613901123" />
+      <entry key="S30" value="4.579953949883258" />
+      <entry key="S60" value="5.234013634192181" />
+      <entry key="M2" value="5.894004631219115" />
+      <entry key="M5" value="12.356967642429357" />
+      <entry key="M10" value="29.567898413645892" />
+      <entry key="M15" value="45.97556457751382" />
+      <entry key="M30" value="88.1705229052231" />
+      <entry key="H1" value="156.48448197438654" />
+      <entry key="H2" value="236.6695371807779" />
+      <entry key="H4" value="302.53422084592796" />
+      <entry key="D1" value="378.74228770836606" />
+      <entry key="W1" value="394.3218156647511" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.866285577936355E-67" />
-      <entry key="MS500" value="4.9143251959996176E-14" />
-      <entry key="S2" value="4.7083209957127697E-4" />
-      <entry key="S5" value="0.04678106066863052" />
-      <entry key="S10" value="0.22611484818127814" />
-      <entry key="S30" value="0.8911918393799548" />
-      <entry key="S60" value="1.8101653025443916" />
-      <entry key="M2" value="3.6361141636471555" />
-      <entry key="M5" value="8.461249990132277" />
-      <entry key="M10" value="14.67486881458876" />
-      <entry key="M15" value="19.10346542178719" />
-      <entry key="M30" value="29.101939474632946" />
-      <entry key="H1" value="45.37118262405397" />
-      <entry key="H2" value="65.00239503080373" />
-      <entry key="H4" value="81.3525698259087" />
-      <entry key="D1" value="100.41612607918223" />
-      <entry key="W1" value="104.32726113116064" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000007767728594" />
+      <entry key="S60" value="1.0020122462912775" />
+      <entry key="M2" value="1.128191307052548" />
+      <entry key="M5" value="3.3089392551378993" />
+      <entry key="M10" value="8.93738997676283" />
+      <entry key="M15" value="14.019533991511041" />
+      <entry key="M30" value="25.80118423102521" />
+      <entry key="H1" value="43.70437891603164" />
+      <entry key="H2" value="65.16154438930947" />
+      <entry key="H4" value="83.30015336387453" />
+      <entry key="D1" value="104.78363049731591" />
+      <entry key="W1" value="109.23326018664697" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.750171690419849E-4" />
-      <entry key="MS500" value="0.28527059517699294" />
-      <entry key="S2" value="1.7592344465661702" />
-      <entry key="S5" value="3.0260711823872275" />
-      <entry key="S10" value="4.029976057960204" />
-      <entry key="S30" value="6.9869540587208245" />
-      <entry key="S60" value="11.404525825457423" />
-      <entry key="M2" value="19.177017041846433" />
-      <entry key="M5" value="38.73643092755447" />
-      <entry key="M10" value="64.32270443816684" />
-      <entry key="M15" value="83.80086883095623" />
-      <entry key="M30" value="132.1452056343527" />
-      <entry key="H1" value="212.52451753293926" />
-      <entry key="H2" value="306.152917849387" />
-      <entry key="H4" value="381.9186088092921" />
-      <entry key="D1" value="468.4346509427243" />
-      <entry key="W1" value="485.98696418510036" />
+      <entry key="MS100" value="1.6354500091981253E-5" />
+      <entry key="MS500" value="0.12432395421773403" />
+      <entry key="S2" value="0.9875016448950116" />
+      <entry key="S5" value="2.2394846495967773" />
+      <entry key="S10" value="3.6239823576712356" />
+      <entry key="S30" value="5.501143309969756" />
+      <entry key="S60" value="6.19332490724617" />
+      <entry key="M2" value="6.994616475001681" />
+      <entry key="M5" value="15.619820116288235" />
+      <entry key="M10" value="38.439504644026215" />
+      <entry key="M15" value="59.9262534460831" />
+      <entry key="M30" value="113.90854160184121" />
+      <entry key="H1" value="200.13524909223918" />
+      <entry key="H2" value="301.79119335452873" />
+      <entry key="H4" value="385.80897382448455" />
+      <entry key="D1" value="483.5206203311622" />
+      <entry key="W1" value="503.55428773033685" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -117,33 +115,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main__flex__right",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Yulia/WebstormProjects/Project_66/StarWars",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main__flex__right&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yulia/WebstormProjects/Project_66/StarWars&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PC\WebstormProjects\Projects\StarWars" />
